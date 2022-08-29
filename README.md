@@ -1,1 +1,1 @@
-ML algorithms applied on different datasets
+ML algorithms implementation
